@@ -31,6 +31,10 @@
 		margin: 0px auto;
 	}
 
+	#logoo>img{
+		width: 100%;
+	}
+
 	body {
 		line-height: 1;
 	}
