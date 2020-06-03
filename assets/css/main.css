@@ -32,12 +32,12 @@
 	}
 
 	#logoo>img{
-		width: 100%;
+		max-width: 80%;
 	}
 
 	.inner>h2{
 		margin: 0 auto;
-		width: 100%;
+		width: 50%;
 	}
 
 	body {
